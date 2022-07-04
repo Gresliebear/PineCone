@@ -1,6 +1,6 @@
 # PineCone
 
-if you take the time google, there is no 3D games on react-three-fiber, or 3D games developed via the three.js and WebGL. 
+if you take the time google, there is some 3D games on react-three-fiber, or 3D games developed via the three.js and WebGL. 
 
 
 PineCone is open-source Game Engine developed for 3D games inside of react-javascript deployable on the redwood stack 
